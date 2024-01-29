@@ -22,18 +22,16 @@ Experts have prophesied that American regional accents will one day be extinct. 
 ### Printing
 
 <table>
-<tr> <th>JavaScript</th><th>YALL*E</th><tr>
+<tr> <th>JavaScript</th><th>YALL*E</th>
 </tr>
+<tr>
 <td>
-```javascript
 console.log(“Hello world!”)
-```
 </td>
 <td>
-```
 holler “Hello world!”
-```
 </td>
+<tr>
 </table>
 
 ### Printing
@@ -42,14 +40,10 @@ holler “Hello world!”
 <tr> <th>JavaScript</th><th>YALL*E</th><tr>
 </tr>
 <td>
-```javascript
 console.log(“Hello world!”)
-```
 </td>
 <td>
-```
 holler “Hello world!”
-```
 </td>
 </table>
 
@@ -62,10 +56,12 @@ Lassoes are for variables you may want to assign then reassign. Brands are for c
 <th>JavaScript</th>
 <th>YALL*E</th><tr>
 </tr>
+<tr>
 <td>
 let horseshoes = 10
 </td>
 <td>
 lasso horshoes = 10
 </td>
+</tr>
 </table>
