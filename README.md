@@ -58,18 +58,14 @@ holler “Hello world!”
 Lassoes are for variables you may want to assign then reassign. Brands are for constants that will never leave their herd.
 
 <table>
-<tr> <th>JavaScript</th><th>YALL*E</th><tr>
+<tr> 
+<th>JavaScript</th>
+<th>YALL*E</th><tr>
 </tr>
 <td>
-```javascript
 let horseshoes = 10
-const frito_pies = 12
-```
 </td>
 <td>
-```
 lasso horshoes = 10
-brand frito_pies = 12
-```
 </td>
 </table>
